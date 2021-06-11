@@ -1,7 +1,7 @@
 ---
 heading: Ondersteuning op maat
-path: /products
-templateKey: product-page
+path: /aanbod
+templateKey: offering-page
 title: Het aanbod
 image: /img/header-aanbod.png
 description: "Ieder mens is uniek en daarom biedt Blooming You verschillende
