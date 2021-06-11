@@ -16,7 +16,7 @@ description: Bij Blooming You gaat het niet over het veranderen van je 'zelf'.
   Daarom geloof ik er ook in dat jij alles, nu al, bezit om nog meer van jezelf
   te houden en minder streng te zijn voor jezelf. Samen met jou wil ik het pad
   bewandelen naar meer zachtheid. Zodat ook jij zelf kan zien dat je gewoon mag
-  zijn wie je bent.  Ben jij klaar om helemaal open te bloeien?
+  zijn wie je bent. Ben jij klaar om helemaal open te bloeien?
 intro:
   blurbs: []
   heading: " "
